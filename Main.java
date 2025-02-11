@@ -7,6 +7,6 @@ public class Main
       System.out.println("TESTER");
       System.out.println("TESTER");
       System.out.println("TESTER");
-      System.out.println("Bruce Schaper");
+      
     }
   }
