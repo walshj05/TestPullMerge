@@ -4,3 +4,4 @@ Test the merging of local code when pulling from a modified repository
 * Jane Doe
 * Greg Schaper
 * Another Developer
+* Jon Walsh
